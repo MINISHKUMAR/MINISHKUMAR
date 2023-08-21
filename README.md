@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I’m @MINISHKUMAR
 - 👀 I’m interested in ...CODING AND DATA MINING AND BIGDATA
 - 🌱 I’m currently learning ...SOFTWAREPROGRAMM..FRAMEWORKS...ADMINISTRATION
